@@ -1,0 +1,244 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="f075c78e-7b2f-4ddd-87a9-d06f5caf4363" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Arhiva_files/ARHIVA ziua_52/Day52.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Arhiva_files/ARHIVA ziua_52/Part7-Grouping.zip" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Arhiva_files/ARHIVA ziua_52/Part7-Grouping/Icon_" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Arhiva_files/ARHIVA ziua_52/Part7-Grouping/grouping.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Arhiva_files/ARHIVA ziua_52/Part7-Grouping/testBase/BaseClass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Arhiva_files/ARHIVA ziua_52/Part7-Grouping/testBase/Icon_" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Arhiva_files/ARHIVA ziua_52/Part7-Grouping/testCases/Icon_" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Arhiva_files/ARHIVA ziua_52/Part7-Grouping/testCases/TC_001_AccountRegistrationtTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Arhiva_files/ARHIVA ziua_52/Part7-Grouping/testCases/TC_002_LoginTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Arhiva_files/ARHIVA ziua_52/Part8-Extent report/Icon_" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Arhiva_files/ARHIVA ziua_52/Part8-Extent report/final.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Arhiva_files/ARHIVA ziua_52/Part8-Extent report/grouping.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Arhiva_files/ARHIVA ziua_52/Part8-Extent report/master.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Arhiva_files/ARHIVA ziua_52/Part8-Extent report/testBase/BaseClass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Arhiva_files/ARHIVA ziua_52/Part8-Extent report/testBase/Icon_" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Arhiva_files/ARHIVA ziua_52/Part8-Extent report/utilities/ExtentReportManager.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Arhiva_files/ARHIVA ziua_52/Part8-Extent report/utilities/Icon_" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Arhiva_files/ARHIVA ziua_52/Part8-Extent+report.zip" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Arhiva_files/ARHIVA ziua_52/Part9-Run failure tests/Icon_" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Arhiva_files/ARHIVA ziua_52/Part9-Run failure tests/testng-failed.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Arhiva_files/ARHIVA ziua_52/Part9-Run+failure+tests.zip" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Arhiva_files/ARHIVA ziua_52/__MACOSX/._Part7-Grouping" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Arhiva_files/ARHIVA ziua_52/__MACOSX/._Part8-Extent report" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Arhiva_files/ARHIVA ziua_52/__MACOSX/._Part9-Run failure tests" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Arhiva_files/ARHIVA ziua_52/__MACOSX/Part7-Grouping/._Icon_" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Arhiva_files/ARHIVA ziua_52/__MACOSX/Part7-Grouping/._testBase" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Arhiva_files/ARHIVA ziua_52/__MACOSX/Part7-Grouping/._testCases" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Arhiva_files/ARHIVA ziua_52/__MACOSX/Part7-Grouping/testBase/._Icon_" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Arhiva_files/ARHIVA ziua_52/__MACOSX/Part7-Grouping/testCases/._Icon_" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Arhiva_files/ARHIVA ziua_52/__MACOSX/Part8-Extent report/._Icon_" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Arhiva_files/ARHIVA ziua_52/__MACOSX/Part8-Extent report/._testBase" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Arhiva_files/ARHIVA ziua_52/__MACOSX/Part8-Extent report/._utilities" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Arhiva_files/ARHIVA ziua_52/__MACOSX/Part8-Extent report/testBase/._Icon_" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Arhiva_files/ARHIVA ziua_52/__MACOSX/Part8-Extent report/utilities/._Icon_" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Arhiva_files/ARHIVA ziua_52/__MACOSX/Part9-Run failure tests/._Icon_" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java.ziua_49_50.ProiectComplet.reportsTest-Report-2024.10.11.20.46.21.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java.ziua_49_50.ProiectComplet.reportsTest-Report-2024.10.11.20.48.03.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/reports/Test-Report-2024.10.11.20.31.30.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/reports/Test-Report-2024.10.11.20.39.12.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/reports/Test-Report-2024.10.11.20.41.02.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/reports/Test-Report-2024.10.11.20.51.49.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/reports/Test-Report-2024.10.11.20.52.47.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/reports/Test-Report-2024.10.11.21.05.37.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/reports/Test-Report-2024.10.11.21.09.59.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/reports/Test-Report-2024.10.11.21.18.12.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/reports/Test-Report-2024.10.11.21.23.23.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/drivers/BasePage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/drivers/DriverManager.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/ziua_48/Clasa_AutomFrame_S1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/ziua_49_50/Clasa_Log_Append.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/ziua_49_50/Clasa_POM_XML.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/ziua_49_50/Clasa_TC_DP.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/ziua_49_50/Pagina de date.docx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/ziua_49_50/ProiectComplet/Java/pageObjects/AccountRegisterPage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/ziua_49_50/ProiectComplet/Java/pageObjects/BasePage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/ziua_49_50/ProiectComplet/Java/pageObjects/HomePage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/ziua_49_50/ProiectComplet/Java/pageObjects/LoginPage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/ziua_49_50/ProiectComplet/Java/pageObjects/MyAccPage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/ziua_49_50/ProiectComplet/Java/testBase/BaseClass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/ziua_49_50/ProiectComplet/Java/testCase/TC001_AccRegistTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/ziua_49_50/ProiectComplet/Java/testCase/TC002_CheckMultipleProducts.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/ziua_49_50/ProiectComplet/Java/testCase/TC003_LoginTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/ziua_49_50/ProiectComplet/Java/testCase/TC004_LoginDDT.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/ziua_49_50/ProiectComplet/Java/utilities/DataProviders.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/ziua_49_50/ProiectComplet/Java/utilities/ExcelUtility.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/ziua_49_50/ProiectComplet/Java/utilities/ExtentReportManager.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/ziua_49_50/ProiectComplet/logs/log4j2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/ziua_49_50/ProiectComplet/resources/config.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/ziua_49_50/ProiectComplet/resources/log4j2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/ziua_49_50/crossbrowsetesting.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/ziua_49_50/grouping.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/ziua_49_50/master.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/ziua_49_50/testng.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/ziua_51/Automat_TC_51.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/ziua_51/pagObj/PagInregCont.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/ziua_51/pagObj/PagPrincipala.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/ziua_51/pagObj/PaginaDrivere.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/ziua_51/resurse/log4j2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/ziua_51/testBaza/ClasaBaza.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/ziua_51/testCase/TestCase1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/ziua_52/Automat_TC_52.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/ziua_52/RunFailedTest.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2jnQ00uONUuBnzxcQQIh36Wchs3" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/CRISTIAN ZIDARESCU/IdeaProjects/Project_Autom_Framework/src/test/java/ziua_51/resurse&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="ziua_49_50.ProiectComplet.Java.testBase" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\CRISTIAN ZIDARESCU\IdeaProjects\Project_Autom_Framework\src\test\java\ziua_51\resurse" />
+      <recent name="C:\Users\CRISTIAN ZIDARESCU\IdeaProjects\Project_Autom_Framework\src\test\java\ziua_49_50\ProiectComplet\logs" />
+      <recent name="C:\Users\CRISTIAN ZIDARESCU\IdeaProjects\Project_Autom_Framework\src\test\java\ziua_49\ProiectComplet" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\CRISTIAN ZIDARESCU\IdeaProjects\Project_Autom_Framework\src\test\java\ziua_49_50" />
+      <recent name="C:\Users\CRISTIAN ZIDARESCU\IdeaProjects\Project_Autom_Framework" />
+      <recent name="C:\Users\CRISTIAN ZIDARESCU\IdeaProjects\Project_Autom_Framework\target" />
+      <recent name="C:\Users\CRISTIAN ZIDARESCU\IdeaProjects\Project_Autom_Framework\src\test\java\ziua_49\ProiectComplet\Java" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="ziua_52" />
+      <recent name="ziua_51.pagObj" />
+      <recent name="drivers" />
+    </key>
+  </component>
+  <component name="RunManager" selected="TestNG.C:/Users/CRISTIAN ZIDARESCU/IdeaProjects/Project_Autom_Framework/src/test/java/ziua_49_50/master.xml">
+    <configuration name="Automat_TC_52" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ziua_52.Automat_TC_52" />
+      <module name="Project_Autom_Framework" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ziua_52.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="C:/Users/CRISTIAN ZIDARESCU/IdeaProjects/Project_Autom_Framework/src/test/java/ziua_49_50/crossbrowsetesting.xml" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="Project_Autom_Framework" />
+      <option name="SUITE_NAME" value="$PROJECT_DIR$/src/test/java/ziua_49_50/crossbrowsetesting.xml" />
+      <option name="TEST_OBJECT" value="SUITE" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="C:/Users/CRISTIAN ZIDARESCU/IdeaProjects/Project_Autom_Framework/src/test/java/ziua_49_50/grouping.xml" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="Project_Autom_Framework" />
+      <option name="SUITE_NAME" value="$PROJECT_DIR$/src/test/java/ziua_49_50/grouping.xml" />
+      <option name="TEST_OBJECT" value="SUITE" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="C:/Users/CRISTIAN ZIDARESCU/IdeaProjects/Project_Autom_Framework/src/test/java/ziua_49_50/master.xml" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="Project_Autom_Framework" />
+      <option name="SUITE_NAME" value="$PROJECT_DIR$/src/test/java/ziua_49_50/master.xml" />
+      <option name="TEST_OBJECT" value="SUITE" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="C:/Users/CRISTIAN ZIDARESCU/IdeaProjects/Project_Autom_Framework/src/test/java/ziua_49_50/testng.xml" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="Project_Autom_Framework" />
+      <option name="SUITE_NAME" value="$PROJECT_DIR$/src/test/java/ziua_49_50/testng.xml" />
+      <option name="TEST_OBJECT" value="SUITE" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="TestNG.C:/Users/CRISTIAN ZIDARESCU/IdeaProjects/Project_Autom_Framework/src/test/java/ziua_49_50/master.xml" />
+        <item itemvalue="TestNG.C:/Users/CRISTIAN ZIDARESCU/IdeaProjects/Project_Autom_Framework/src/test/java/ziua_49_50/grouping.xml" />
+        <item itemvalue="TestNG.C:/Users/CRISTIAN ZIDARESCU/IdeaProjects/Project_Autom_Framework/src/test/java/ziua_49_50/crossbrowsetesting.xml" />
+        <item itemvalue="TestNG.C:/Users/CRISTIAN ZIDARESCU/IdeaProjects/Project_Autom_Framework/src/test/java/ziua_49_50/testng.xml" />
+        <item itemvalue="Application.Automat_TC_52" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="f075c78e-7b2f-4ddd-87a9-d06f5caf4363" name="Changes" comment="" />
+      <created>1722020135562</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1722020135562</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
+</project>

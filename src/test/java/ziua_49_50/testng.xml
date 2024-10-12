@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+
+<suite name = "Suite" >
+
+    <listeners>
+        <listener class-name="ziua_49_50.ProiectComplet.Java.utilities.ExtentReportManager"/>
+    </listeners>
+
+    <test thread-count="5" name="Test">
+
+        <parameter name ="os" value="Windows"/>
+        <parameter name ="browser" value="chrome"/>
+<!-- trebuie sa primim acesti parametrii in clasa setup, deci ii scrien in BaseClass dupa @BeforeClass -->
+<!-- deci la linia de broswser in loc de Chrome se poate pune EDGE, FireFox sau alt browser  -->
+
+        <classes>
+            <class name = "ziua_49_50.ProiectComplet.Java.testCase.TC001_AccRegistTest"/>
+            <class name = "ziua_49_50.ProiectComplet.Java.testCase.TC003_LoginTest"/>
+        </classes>
+
+    </test>
+</suite>
