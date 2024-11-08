@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="f075c78e-7b2f-4ddd-87a9-d06f5caf4363" name="Changes" comment="Up-date 07.11.2024">
+      <change beforePath="$PROJECT_DIR$/target/classes/org/example/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/drivers/BasePage.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/drivers/DriverManager.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/ziua_48/Clasa_AutomFrame_S1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/ziua_49_50/Clasa_Log_Append.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/ziua_49_50/Clasa_POM_XML.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/ziua_49_50/Clasa_TC_DP.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/ziua_49_50/ProiectComplet/Java/pageObjects/AccountRegisterPage.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/ziua_49_50/ProiectComplet/Java/pageObjects/BasePage.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/ziua_49_50/ProiectComplet/Java/pageObjects/HomePage.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/ziua_49_50/ProiectComplet/Java/pageObjects/LoginPage.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/ziua_49_50/ProiectComplet/Java/pageObjects/MyAccPage.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/ziua_49_50/ProiectComplet/Java/testBase/BaseClass.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/ziua_49_50/ProiectComplet/Java/testCase/TC001_AccRegistTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/ziua_49_50/ProiectComplet/Java/testCase/TC002_CheckMultipleProducts.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/ziua_49_50/ProiectComplet/Java/testCase/TC003_LoginTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/ziua_49_50/ProiectComplet/Java/testCase/TC004_LoginDDT.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/ziua_49_50/ProiectComplet/Java/utilities/DataProviders.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/ziua_49_50/ProiectComplet/Java/utilities/ExcelUtility.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/ziua_49_50/ProiectComplet/Java/utilities/ExtentReportManager.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/ziua_51/Automat_TC_51.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/ziua_51/pagObj/PagInregCont.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/ziua_51/pagObj/PagPrincipala.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/ziua_51/pagObj/PaginaDrivere.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/ziua_51/testBaza/ClasaBaza.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/ziua_51/testCase/TestCase1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/ziua_52/Automat_TC_52.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/ziua_52/RunFailedTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/ziua_53/SeleniumGrid.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/ziua_54/Clasa_AccesareDockerHUB.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/ziua_54/Class_Docker.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/ziua_54/Docker_Commands.class" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeStyleSettingsInfer">
+    <option name="done" value="true" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="2" />
+  </component>
+  <component name="ProjectId" id="2oXu3mVhq3zijLKpIBwzfOZ9zuw" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "SONARLINT_PRECOMMIT_ANALYSIS": "true",
+    "last_opened_file_path": "C:/Users/crist/IdeaProjects/Project_Autom_Framework",
+    "project.structure.last.edited": "Project",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.0"
+  }
+}]]></component>
+  <component name="RunManager">
+    <configuration name="&lt;default&gt;" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="Project_Autom_Framework" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="TEST_OBJECT" value="PACKAGE" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="TestNG.&lt;default&gt;" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="f075c78e-7b2f-4ddd-87a9-d06f5caf4363" name="Changes" comment="Up-date 07.11.2024" />
+      <created>1731028052627</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1731028052627</updated>
+    </task>
+    <task id="LOCAL-00001" summary="Up-date 07.11.2024">
+      <created>1731028613837</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1731028613837</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Up-date 07.11.2024" />
+    <option name="LAST_COMMIT_MESSAGE" value="Up-date 07.11.2024" />
+  </component>
+</project>
