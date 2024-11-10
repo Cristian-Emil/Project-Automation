@@ -1,0 +1,74 @@
+Automation Framework
+--------------------
+we organize automation project files/foldes in structured manner.
+
+Objectives
+------------
+1) Re-usubility
+2) Maintainability
+3) Readability
+
+
+Types of frameworks
+---------------------
+1) Built-in
+	Ex: testng, junit, cucumber, robot etc..
+
+2) customized(user defined)
+	modular framework, data driven, keywork driven, hybrid driven etc..
+
+
+Phases/stages
+-------------
+1) Analysing AUT
+
+	- Number of pages
+	- what are all elements / how/ type
+        - what to automate / what we cannot automate
+
+
+2) choose test cases for automation
+
+100 Test cases -----90 automatable  10 cannot automate
+100% automation
+
+
+1)sanity test cases - P1
+2) data driven test cases/re-tests   - P2
+3) Regression test cases -P3
+4) Any other cases - P4
+
+3) Design & Developement of framework
+
+4) Execution - local, remotely
+
+5) Maintenace
+
+
+
+E-commerce domain
+------------------
+
+1) Frontent operations   ( customers/users)
+
+	- register an account
+	- login
+	- search for the product
+	- add/edit/delete products from cart
+	- order products
+	- reviews
+	etc....
+
+
+2) Backend operations (admins/backend teams)
+	- products
+	- customers
+	- orders
+	- store
+etc..
+
+
+opencart app:
+----------------------------------
+https://tutorialsninja.com/demo/
+

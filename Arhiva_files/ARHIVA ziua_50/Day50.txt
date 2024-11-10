@@ -1,0 +1,14 @@
+Day-50
+--------
+Logging - record all the events in the form of text.
+
+Log Levels - All < Trace < Debug < Info < Warn < Error < Fatal < Off 
+
+
+Appenders - where to generate logs (Console/File)
+Loggers  - what type of logs generate (All < Trace < Debug < Info < Warn < Error < Fatal < Off)
+
+
+import org.apache.logging.log4j.LogManager;  //Log4j
+import org.apache.logging.log4j.Logger;  //Log4j
+

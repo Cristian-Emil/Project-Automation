@@ -4,15 +4,13 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f075c78e-7b2f-4ddd-87a9-d06f5caf4363" name="Changes" comment="Up-date 08.11.2024">
-      <change afterPath="$PROJECT_DIR$/src/test/java/ziua_54/Docker_images.java" afterDir="false" />
+    <list default="true" id="f075c78e-7b2f-4ddd-87a9-d06f5caf4363" name="Changes" comment="Up-date 10.11.2024">
       <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Arhiva_files/ARHIVA ziua_52/Part7-Grouping.zip" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Arhiva_files/ARHIVA ziua_52/Part7-Grouping/Icon_" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/Arhiva_files/ARHIVA ziua_52/Part7-Grouping/grouping.xml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/Arhiva_files/ARHIVA ziua_52/Part7-Grouping/testBase/BaseClass.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Arhiva_files/ARHIVA ziua_52/Part7-Grouping/testBase/Icon_" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/Arhiva_files/ARHIVA ziua_52/Part7-Grouping/testCases/Icon_" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/Arhiva_files/ARHIVA ziua_52/Part8-Extent report/Icon_" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/Arhiva_files/ARHIVA ziua_52/Part8-Extent report/final.xml" beforeDir="false" />
@@ -57,8 +55,8 @@
   <component name="Git.Settings">
     <option name="PUSH_TAGS">
       <GitPushTagMode>
-        <option name="argument" value="--tags" />
-        <option name="title" value="All" />
+        <option name="argument" value="--follow-tags" />
+        <option name="title" value="Current Branch" />
       </GitPushTagMode>
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -84,26 +82,27 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
-    &quot;ASKED_SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
-    &quot;SONARLINT_PRECOMMIT_ANALYSIS&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/crist/IdeaProjects/Project_Autom_Framework&quot;,
-    &quot;project.structure.last.edited&quot;: &quot;Project&quot;,
-    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
-    &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;reference.projectsettings.compiler.javacompiler&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_ADD_EXTERNAL_FILES": "true",
+    "ASKED_SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "SONARLINT_PRECOMMIT_ANALYSIS": "true",
+    "last_opened_file_path": "C:/Users/crist/IdeaProjects/Project_Autom_Framework",
+    "project.structure.last.edited": "Project",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.0",
+    "settings.editor.selected.configurable": "reference.projectsettings.compiler.javacompiler"
   },
-  &quot;keyToStringList&quot;: {
-    &quot;ChangesTree.GroupingKeys&quot;: [
-      &quot;directory&quot;
+  "keyToStringList": {
+    "ChangesTree.GroupingKeys": [
+      "directory",
+      "module"
     ]
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\crist\IdeaProjects\Project_Autom_Framework" />
@@ -205,7 +204,14 @@
       <option name="project" value="LOCAL" />
       <updated>1731035394748</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="Up-date 10.11.2024">
+      <created>1731259222040</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1731259222040</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -223,6 +229,7 @@
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <MESSAGE value="Up-date 07.11.2024" />
     <MESSAGE value="Up-date 08.11.2024" />
-    <option name="LAST_COMMIT_MESSAGE" value="Up-date 08.11.2024" />
+    <MESSAGE value="Up-date 10.11.2024" />
+    <option name="LAST_COMMIT_MESSAGE" value="Up-date 10.11.2024" />
   </component>
 </project>

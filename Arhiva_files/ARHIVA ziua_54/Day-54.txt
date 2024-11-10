@@ -1,0 +1,56 @@
+Day-54
+------
+
+Docker  - containerization
+
+basic commands
+----------
+docker version
+docker -v
+docker info
+docker --help
+docker login
+
+
+images commands
+-------
+docker images
+docker pull ubuntu
+docker rmi  <mage id>
+
+container commands
+---------------
+docker ps
+docker run <<image name>>
+docker start <<container id>>
+docker stop <<container id>>
+docker rm <container id>
+
+system commands
+---------
+docker stats
+docker system df
+docker system prune -f
+
+
+
+3 images
+-------
+1) hub
+2) linux-firefox
+3) linux-chrome
+
+docker network create grid
+
+docker run -d -p 4442-4444:4442-4444 --net grid --name selenium-hub selenium/hub
+
+docker run -d --net grid -e SE_EVENT_BUS_HOST=selenium-hub -e SE_EVENT_BUS_PUBLISH_PORT=4442 -e 
+SE_EVENT_BUS_SUBSCRIBE_PORT=4443 selenium/node-chrome
+
+docker run -d --net grid -e SE_EVENT_BUS_HOST=selenium-hub -e SE_EVENT_BUS_PUBLISH_PORT=4442 -e 
+SE_EVENT_BUS_SUBSCRIBE_PORT=4443 selenium/node-firefox
+
+
+
+http://localhost:4444/ui/
+
