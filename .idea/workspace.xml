@@ -5,37 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="f075c78e-7b2f-4ddd-87a9-d06f5caf4363" name="Changes" comment="Up-date 10.11.2024">
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Arhiva_files/ARHIVA ziua_52/Part7-Grouping.zip" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Arhiva_files/ARHIVA ziua_52/Part7-Grouping/grouping.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Arhiva_files/ARHIVA ziua_52/Part7-Grouping/testBase/BaseClass.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Arhiva_files/ARHIVA ziua_52/Part7-Grouping/testCases/Icon_" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Arhiva_files/ARHIVA ziua_52/Part8-Extent report/Icon_" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Arhiva_files/ARHIVA ziua_52/Part8-Extent report/final.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Arhiva_files/ARHIVA ziua_52/Part8-Extent report/grouping.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Arhiva_files/ARHIVA ziua_52/Part8-Extent report/testBase/BaseClass.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Arhiva_files/ARHIVA ziua_52/Part8-Extent report/testBase/Icon_" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Arhiva_files/ARHIVA ziua_52/Part8-Extent report/utilities/ExtentReportManager.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Arhiva_files/ARHIVA ziua_52/Part8-Extent report/utilities/Icon_" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Arhiva_files/ARHIVA ziua_52/Part8-Extent+report.zip" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Arhiva_files/ARHIVA ziua_52/Part9-Run failure tests/Icon_" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Arhiva_files/ARHIVA ziua_52/Part9-Run+failure+tests.zip" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Arhiva_files/ARHIVA ziua_52/__MACOSX/._Part7-Grouping" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Arhiva_files/ARHIVA ziua_52/__MACOSX/._Part8-Extent report" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Arhiva_files/ARHIVA ziua_52/__MACOSX/._Part9-Run failure tests" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Arhiva_files/ARHIVA ziua_52/__MACOSX/Part7-Grouping/._Icon_" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Arhiva_files/ARHIVA ziua_52/__MACOSX/Part7-Grouping/._testBase" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Arhiva_files/ARHIVA ziua_52/__MACOSX/Part7-Grouping/._testCases" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Arhiva_files/ARHIVA ziua_52/__MACOSX/Part7-Grouping/testBase/._Icon_" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Arhiva_files/ARHIVA ziua_52/__MACOSX/Part7-Grouping/testCases/._Icon_" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Arhiva_files/ARHIVA ziua_52/__MACOSX/Part8-Extent report/._Icon_" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Arhiva_files/ARHIVA ziua_52/__MACOSX/Part8-Extent report/._testBase" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Arhiva_files/ARHIVA ziua_52/__MACOSX/Part8-Extent report/._utilities" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Arhiva_files/ARHIVA ziua_52/__MACOSX/Part8-Extent report/testBase/._Icon_" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Arhiva_files/ARHIVA ziua_52/__MACOSX/Part8-Extent report/utilities/._Icon_" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Arhiva_files/ARHIVA ziua_52/__MACOSX/Part9-Run failure tests/._Icon_" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -51,6 +21,9 @@
         <option value="Class" />
       </list>
     </option>
+  </component>
+  <component name="Git.Rebase.Settings">
+    <option name="NEW_BASE" value="master" />
   </component>
   <component name="Git.Settings">
     <option name="PUSH_TAGS">
