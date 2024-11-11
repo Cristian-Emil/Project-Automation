@@ -1,0 +1,25 @@
+<suite name="Suite" thread-count="5">
+    <listeners>
+        <listener class-name="ziua_49_50.ProiectComplet.Java.utilities.ExtentReportManager"/>
+    </listeners>
+
+    <test name="Linux-Chrome">
+        <parameter name="os" value="Linux"/>
+        <parameter name="browser" value="chrome"/>
+        <classes>
+<!--            <class name="ziua_49_50.ProiectComplet.Java.testCase.TC001_AccRegistTest"/>-->
+            <class name="ziua_49_50.ProiectComplet.Java.testCase.TC003_LoginTest"/>
+        </classes>
+    </test>
+
+
+    <test name="Linux-Firefox">
+        <parameter name="os" value="Linux"/>
+        <parameter name="browser" value="firefox"/>
+        <classes>
+<!--            <class name="ziua_49_50.ProiectComplet.Java.testCase.TC001_AccRegistTest"/>-->
+            <class name="ziua_49_50.ProiectComplet.Java.testCase.TC003_LoginTest"/>
+        </classes>
+    </test>
+</suite>
+        <!--  Suite  -->
